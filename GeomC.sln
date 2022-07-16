@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GeomC", "GeomC\GeomC.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GeomLib", "GeomLib\GeomLib.vcxproj", "{D9ED342B-87A8-4D45-BBB3-4DF903CE6AE1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GeomCTests", "GeomCTests\GeomCTests.vcxproj", "{052C6E32-2D8A-482C-86B9-542FE5CFE331}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{D9ED342B-87A8-4D45-BBB3-4DF903CE6AE1}.Release|x64.Build.0 = Release|x64
 		{D9ED342B-87A8-4D45-BBB3-4DF903CE6AE1}.Release|x86.ActiveCfg = Release|Win32
 		{D9ED342B-87A8-4D45-BBB3-4DF903CE6AE1}.Release|x86.Build.0 = Release|Win32
+		{052C6E32-2D8A-482C-86B9-542FE5CFE331}.Debug|x64.ActiveCfg = Debug|x64
+		{052C6E32-2D8A-482C-86B9-542FE5CFE331}.Debug|x64.Build.0 = Debug|x64
+		{052C6E32-2D8A-482C-86B9-542FE5CFE331}.Debug|x86.ActiveCfg = Debug|Win32
+		{052C6E32-2D8A-482C-86B9-542FE5CFE331}.Debug|x86.Build.0 = Debug|Win32
+		{052C6E32-2D8A-482C-86B9-542FE5CFE331}.Release|x64.ActiveCfg = Release|x64
+		{052C6E32-2D8A-482C-86B9-542FE5CFE331}.Release|x64.Build.0 = Release|x64
+		{052C6E32-2D8A-482C-86B9-542FE5CFE331}.Release|x86.ActiveCfg = Release|Win32
+		{052C6E32-2D8A-482C-86B9-542FE5CFE331}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

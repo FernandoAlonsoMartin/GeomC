@@ -1,5 +1,7 @@
 #include "EdgeTests.h"
 
+#include "pch.h"
+
 #include "Edge.h"
 
 TEST(EdgeTests, TestNullEdge) {

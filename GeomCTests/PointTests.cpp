@@ -1,5 +1,7 @@
 #include "PointTests.h"
 
+#include "pch.h"
+
 #include "Point.h"
 
 TEST(PointTests, CreatePointAndSetCoordinates) {

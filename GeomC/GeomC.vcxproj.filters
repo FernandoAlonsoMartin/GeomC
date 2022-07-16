@@ -18,31 +18,5 @@
     <ClCompile Include="GeomC.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="PointTests.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="EdgeTests.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="GeomObjectTests.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="WireTests.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="PointTests.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="EdgeTests.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="GeomObjectTests.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="WireTests.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

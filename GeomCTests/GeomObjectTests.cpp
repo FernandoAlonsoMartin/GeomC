@@ -1,7 +1,10 @@
 #include "GeomObjectTests.h"
 
+#include "pch.h"
+
 #include "GeomObject.h"
 #include "Point.h"
+
 
 TEST(GeomObjectTests, DefaultTolerance) {  
   EXPECT_LE(GeomObject::GetDefaultTolerance(),0.00001);

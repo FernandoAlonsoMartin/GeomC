@@ -146,17 +146,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="EdgeTests.cpp" />
     <ClCompile Include="GeomC.cpp" />
-    <ClCompile Include="GeomObjectTests.cpp" />
-    <ClCompile Include="PointTests.cpp" />
-    <ClCompile Include="WireTests.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="EdgeTests.h" />
-    <ClInclude Include="GeomObjectTests.h" />
-    <ClInclude Include="PointTests.h" />
-    <ClInclude Include="WireTests.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
