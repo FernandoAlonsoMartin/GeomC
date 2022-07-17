@@ -1,0 +1,3 @@
+[submodule "3rdPart/gtest/include"]
+	path = 3rdPart/gtest/include
+	url = https://github.com/FernandoAlonsoMartin/GeomC
